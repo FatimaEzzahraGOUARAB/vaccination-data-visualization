@@ -19,7 +19,7 @@ catégorie).
 ![Visualisation de la couverture vaccinale](graphe.png)
 ![Comparaison par catégorie](graphe2R.png)
 
-Démo en ligne : [lien vers votre GitHub Pages]
+
 
 ## Technologies
 R, Python, MongoDB, HTML/CSS
